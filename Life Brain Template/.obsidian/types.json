@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date_created": "datetime",
+    "completed": "checkbox",
+    "date_completed": "datetime",
+    "date_edited": "datetime",
+    "datetime_created": "datetime",
+    "datetime_due": "datetime",
+    "datetime_completed": "datetime",
+    "project_published": "multitext",
+    "datetime_deadline": "datetime",
+    "note_content": "multitext",
+    "note_completed": "datetime",
+    "note_created": "datetime",
+    "leetcode_started": "datetime",
+    "leetcode_completed": "datetime",
+    "leetcode_solutions": "multitext",
+    "leetcode_links": "multitext"
+  }
+}

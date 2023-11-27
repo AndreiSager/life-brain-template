@@ -1,0 +1,46 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl( 258, 88%, calc(66% + 6%) )",
+      "directory": "Full Calendar/Recurring Events"
+    },
+    {
+      "type": "local",
+      "color": "#009912",
+      "directory": "Full Calendar/Personal Single Events"
+    },
+    {
+      "type": "local",
+      "color": "#d25656",
+      "directory": "Full Calendar/Training Single Events"
+    },
+    {
+      "type": "local",
+      "color": "#0982c8",
+      "directory": "Full Calendar/Work Single Events"
+    },
+    {
+      "type": "local",
+      "color": "#0982c8",
+      "directory": "Full Calendar/School Single Events"
+    },
+    {
+      "type": "local",
+      "color": "#ff7702",
+      "directory": "Full Calendar/Hobbies Single Events"
+    },
+    {
+      "type": "local",
+      "color": "#f917a4",
+      "directory": "Full Calendar/No Tags Single Events"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGridDay"
+  },
+  "timeFormat24h": false
+}

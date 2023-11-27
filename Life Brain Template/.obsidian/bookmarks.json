@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "☆Templates/~Guide Questions.md",
+      "ctime": 1683206106216
+    },
+    {
+      "type": "group",
+      "ctime": 1692829667153,
+      "items": [],
+      "title": "My Dungeon Lord Master"
+    },
+    {
+      "type": "group",
+      "ctime": 1692829682719,
+      "items": [],
+      "title": "About My Dungeon Lord Master"
+    },
+    {
+      "type": "file",
+      "ctime": 1692829699570,
+      "path": "■ About/》My Dungeon Lord Master.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1692830933319,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1692830947356,
+          "path": "■ About/Shit Pile.md"
+        }
+      ],
+      "title": "Ideas"
+    }
+  ]
+}

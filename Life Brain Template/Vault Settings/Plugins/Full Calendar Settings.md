@@ -1,0 +1,7 @@
+- title
+- allDay
+- startTime
+- endTime
+- type
+- daysOfWeek
+- startRecur

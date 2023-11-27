@@ -1,0 +1,363 @@
+{
+  "workspaces": {
+    "Shane Desktop": {
+      "main": {
+        "id": "58e91e34faa950f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "016e193ba9bb9842",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccb7c3840592884f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "241cc91334c0ad38",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e730452f4abd98bc",
+        "type": "split",
+        "children": [
+          {
+            "id": "1cfb3539c808ea83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db98ace4a372ff78",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f8d53b025f961aeb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "[\"🥊Training\"]",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d2d7cba668466cca",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fe7a2d21f4d9dbf6",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-sidebar-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 301.5
+      },
+      "right": {
+        "id": "c9b1a7fdf8ebae5f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0224841d4e5f12fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b38ee7a9511505f6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3949b924a28f234d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f4fffca22b3864",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "051215076a5e5f79",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "765ee75c11f414bf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "46c3c5cff66f847f",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Open today's daily note": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "ledger-obsidian:Add to Ledger": false,
+          "command-palette:Open command palette": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "markdown-importer:Open format converter": true,
+          "random-note:Open random note": true,
+          "custom-sort:Toggle custom sorting": false
+        }
+      },
+      "active": "db98ace4a372ff78"
+    },
+    "Shane Mobile": {
+      "main": {
+        "id": "58e91e34faa950f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "016e193ba9bb9842",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f7601b1437959c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e730452f4abd98bc",
+        "type": "split",
+        "children": [
+          {
+            "id": "1cfb3539c808ea83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db98ace4a372ff78",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f8d53b025f961aeb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "[\"🥊Training\"]",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d2d7cba668466cca",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fe7a2d21f4d9dbf6",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-sidebar-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 301.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c9b1a7fdf8ebae5f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0224841d4e5f12fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b38ee7a9511505f6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3949b924a28f234d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f4fffca22b3864",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "051215076a5e5f79",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "765ee75c11f414bf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "46c3c5cff66f847f",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Open today's daily note": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "ledger-obsidian:Add to Ledger": false,
+          "command-palette:Open command palette": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "markdown-importer:Open format converter": true,
+          "random-note:Open random note": true,
+          "custom-sort:Toggle custom sorting": false
+        }
+      },
+      "active": "f7601b1437959c8d"
+    }
+  },
+  "active": "Shane Mobile"
+}
