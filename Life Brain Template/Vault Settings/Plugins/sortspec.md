@@ -25,29 +25,9 @@ sorting-spec: |-
   Life Archives
   Life Shitpile
   ---
-  target-folder: Ledger
-  Transactions
-  Ledger Help
-
   target-folder: Daily Notes
   order-desc: a-z
 
-  target-folder: Personal Projects 
-  Personal Projects 
-  
-  target-folder: Personal Areas 
-  Personal Areas 
-  
-  target-folder: Personal Resources 
-  Personal Resources 
-  
-  target-folder: Personal Archives 
-  Personal Archives 
-  Completed Projects
-  Inactive Areas
-  Past Resources
-
-  ---
   target-folder: Life Projects 
   Life Projects 
   

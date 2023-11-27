@@ -14,8 +14,22 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "2fe21be92004142b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault Settings/Plugins/sortspec.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "c9b1a7fdf8ebae5f",
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault Settings/Plugins/sortspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault Settings/Plugins/sortspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +152,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vault Settings/Plugins/sortspec.md"
+              }
             }
           },
           {
-            "id": "46c3c5cff66f847f",
+            "id": "6f0b3ae31dbbae92",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -160,31 +177,40 @@
       "daily-notes:Open today's daily note": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "workspaces:Manage workspace layouts": false,
-      "ledger-obsidian:Add to Ledger": false,
       "command-palette:Open command palette": false,
+      "ledger-obsidian:Add to Ledger": false,
       "switcher:Open quick switcher": true,
+      "custom-sort:Toggle custom sorting": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "markdown-importer:Open format converter": true,
-      "random-note:Open random note": true,
-      "custom-sort:Toggle custom sorting": false
+      "random-note:Open random note": true
     }
   },
-  "active": "db98ace4a372ff78",
+  "active": "2fe21be92004142b",
   "lastOpenFiles": [
+    "For Later/Learn Later",
+    "For Later/Listen Later",
+    "For Later/Watch Later",
+    "For Later/Read Later",
+    "Full Calendar/No Tags Single Events",
+    "Full Calendar/Hobbies Single Events",
+    "Full Calendar/School Single Events",
+    "Full Calendar/Work Single Events",
+    "Full Calendar/Training Single Events",
+    "Full Calendar/Personal Single Events",
+    "Full Calendar/Recurring Events",
+    "Vault Help/Tasks Help.md",
     "Vault About/The Ultimate Productivity System.md",
     "Life Archives/Life Archives.md",
     "Life Resources/Life Resources.md",
     "Life Areas/Life Areas.md",
     "Life Projects/Life Projects.md",
     "Vault Settings/Plugins/sortspec.md",
-    "Life Shitpile/Other Stuff",
-    "Life Shitpile/Ideas",
     "Life.md",
     "Vault Settings/Tags/tags note.md",
     "Vault Settings/Plugins/Full Calendar Settings.md",
-    "Vault Help/Tasks Help.md",
     "Vault Settings/Properties/Property Documentation.md",
     "Vault Settings/Properties/project properties.md",
     "Vault Settings/Properties/Content Properties.md",
@@ -200,17 +226,8 @@
     "Templates/Dataview Templates/Dataview Task Template.md",
     "Templates/Dataview Templates/Dataview Table Template.md",
     "Templates/Quick Templates/Quick Date and Time Template.md",
-    "Templates/Quick Templates/Quick External Links Templates.md",
     "Attachments/Pasted image 20231125165424.png",
-    "Transactions.ledger",
     "Attachments/Pasted image 20231125165414.png",
-    "Work Areas/UX Designer",
-    "Work Areas/UI Designer",
-    "Work Areas/Software Engineer/Other Concepts",
-    "Work Projects/Others",
-    "Templates/Areas Templates",
-    "Templates/Areas Templates/Software Engineer Templates",
-    "Work Areas/Software Engineer/Javascript",
     "Work Resources/Books/overlord_icon.webp",
     "Work Resources/Books/eminence_icon.webp",
     "Attachments/Pasted image 20231112011307.png"
